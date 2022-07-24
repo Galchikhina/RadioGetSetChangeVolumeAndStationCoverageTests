@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df0b3cbe-bb8f-463f-ac5c-15b3aba92fae" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CLWrcoqA4MNSuLMmjzqqNIYt15" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RUUEGALC\YandexDisk\Netology\IDEA\10 Incapsullation\10 RadioGetSetChangeVolumeAndStationCoverageTests\RadioGetSetChangeVolumeAndStationCoverageTests\src" />
+      <recent name="C:\Users\RUUEGALC\YandexDisk\Netology\IDEA\10 Incapsullation\10 RadioGetSetChangeVolumeAndStationCoverageTests\RadioGetSetChangeVolumeAndStationCoverageTests" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean verify" />
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RadioTest">
+    <configuration name="RadioTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RadioGetSetChangeVolumeAndStationCoverageTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.stationДуыыЕрфт0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RadioGetSetChangeVolumeAndStationCoverageTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest" />
+      <option name="METHOD_NAME" value="stationДуыыЕрфт0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.stationLessThan0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RadioGetSetChangeVolumeAndStationCoverageTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest" />
+      <option name="METHOD_NAME" value="stationLessThan0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.volumeLessThan0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RadioGetSetChangeVolumeAndStationCoverageTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest" />
+      <option name="METHOD_NAME" value="volumeLessThan0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioTest.volumeMoreThan10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="RadioGetSetChangeVolumeAndStationCoverageTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RadioTest" />
+      <option name="METHOD_NAME" value="volumeMoreThan10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RadioTest" />
+        <item itemvalue="JUnit.RadioTest.volumeMoreThan10" />
+        <item itemvalue="JUnit.RadioTest.volumeLessThan0" />
+        <item itemvalue="JUnit.RadioTest.stationLessThan0" />
+        <item itemvalue="JUnit.RadioTest.stationДуыыЕрфт0" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df0b3cbe-bb8f-463f-ac5c-15b3aba92fae" name="Changes" comment="" />
+      <created>1658582551612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658582551612</updated>
+    </task>
+    <servers />
+  </component>
+</project>
