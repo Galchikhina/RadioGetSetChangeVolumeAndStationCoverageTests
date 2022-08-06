@@ -26,44 +26,45 @@ public class Radio {
             currentVolumeForth = 10;
         }
 
-        }
-        public void decreaseVolume() { //метод уменьшения звука на 1
-            if (currentVolumeForth > 0) {
-                currentVolumeForth = currentVolumeForth - 1;
-            } else {
-                currentVolumeForth = 0;
-            }
-        }
+    }
 
-        public int getCurrentStation() { //метод геттер получения текущего номера станции
-            return currentStation;
-        }
-
-        public void setCurrentStation(int currentStation){  //метод сеттер для установки радиостанции
-            if (currentStation < 0) {
-                return;
-            }
-            if (currentStation > 9) {
-                return;
-            }
-
-            this.currentStation = currentStation;
-        }
-
-        public int getCurrentVolumeForth() { //метод геттер получения текущего уолвня звука
-            return currentVolumeForth;
-        }
-
-        public void setCurrentVolumeForth (int currentVolumeForth) { //метод сеттер для установки уровня звука
-            if (currentVolumeForth < 0) {
-                return;
-            }
-            if (currentVolumeForth > 10) {
-                return;
-            }
-            this.currentVolumeForth = currentVolumeForth;
+    public void decreaseVolume() { //метод уменьшения звука на 1
+        if (currentVolumeForth > 0) {
+            currentVolumeForth = currentVolumeForth - 1;
+        } else {
+            currentVolumeForth = 0;
         }
     }
+
+    public int getCurrentStation() { //метод геттер получения текущего номера станции
+        return currentStation;
+    }
+
+    public void setCurrentStation(int currentStation) {  //метод сеттер для установки радиостанции
+        if (currentStation < 0) {
+            return;
+        }
+        if (currentStation > 9) {
+            return;
+        }
+
+        this.currentStation = currentStation;
+    }
+
+    public int getCurrentVolumeForth() { //метод геттер получения текущего уолвня звука
+        return currentVolumeForth;
+    }
+
+    public void setCurrentVolumeForth(int currentVolumeForth) { //метод сеттер для установки уровня звука
+        if (currentVolumeForth < 0) {
+            return;
+        }
+        if (currentVolumeForth > 10) {
+            return;
+        }
+        this.currentVolumeForth = currentVolumeForth;
+    }
+}
 
 
 

@@ -90,7 +90,8 @@ public class RadioTest {
     public void volumeDecreasesFrom1To2() {
         Radio radio = new Radio();
         radio.setCurrentVolumeForth(1); //устанавливаем текущую радиостанцию равной 1
-        radio.decreaseVolume();;  //используем метод уменьшения звука
+        radio.decreaseVolume();
+        ;  //используем метод уменьшения звука
         int expected = 0;
         int actual = radio.getCurrentVolumeForth();
         Assertions.assertEquals(expected, actual);
@@ -100,7 +101,8 @@ public class RadioTest {
     public void volumeStaysTheSameFrom0To0() {
         Radio radio = new Radio();
         radio.setCurrentVolumeForth(0); //устанавливаем текущую радиостанцию равной 0
-        radio.decreaseVolume();;  //используем метод уменьшения звука
+        radio.decreaseVolume();
+        ;  //используем метод уменьшения звука
         int expected = 0;
         int actual = radio.getCurrentVolumeForth();
         Assertions.assertEquals(expected, actual);

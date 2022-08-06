@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df0b3cbe-bb8f-463f-ac5c-15b3aba92fae" name="Changes" comment="" />
+    <list default="true" id="df0b3cbe-bb8f-463f-ac5c-15b3aba92fae" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +19,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2CLWrcoqA4MNSuLMmjzqqNIYt15" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,6 +35,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/RUUEGALC/YandexDisk/Netology/IDEA/10 Incapsullation/10 RadioGetSetChangeVolumeAndStationCoverageTests/RadioGetSetChangeVolumeAndStationCoverageTests&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
@@ -36,14 +43,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\RUUEGALC\YandexDisk\Netology\IDEA\10 Incapsullation\10 RadioGetSetChangeVolumeAndStationCoverageTests\RadioGetSetChangeVolumeAndStationCoverageTests\src" />
       <recent name="C:\Users\RUUEGALC\YandexDisk\Netology\IDEA\10 Incapsullation\10 RadioGetSetChangeVolumeAndStationCoverageTests\RadioGetSetChangeVolumeAndStationCoverageTests" />
+      <recent name="C:\Users\RUUEGALC\YandexDisk\Netology\IDEA\10 Incapsullation\10 RadioGetSetChangeVolumeAndStationCoverageTests\RadioGetSetChangeVolumeAndStationCoverageTests\src" />
     </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn clean verify" />
       <command value="mvn clean test" />
+      <command value="mvn clean verify" />
     </option>
   </component>
   <component name="RunManager" selected="JUnit.RadioTest">
@@ -115,6 +122,36 @@
       <option name="presentableId" value="Default" />
       <updated>1658582551612</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1658690246989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658690246989</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1658690276657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658690276657</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>
